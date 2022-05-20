@@ -8,6 +8,8 @@ The maser branch contains all the changes we make in the directory or folder. th
 .git(hidden)
 git-scm.com
 
+
+
 WORKING DIRECTORY; 
 
 
@@ -22,3 +24,11 @@ commit .
 basic git commands
 git commit -m 'calender' styles.css
 git commit -m 'any meassage here'
+
+git log : to get commiy logs
+
+BRANCHES:
+git branch
+git branch feature
+git checkout feature   :this helps to switch to different branch 
+git add .    :to add on the branch
